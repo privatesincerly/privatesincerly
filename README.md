@@ -21,4 +21,4 @@ I made an ugly, non-responsive website about Newton for my physics teacher. you 
 __stuff i wanna do:__ a cloud-based modding framework for Minecraft, my personal website, more stuff.
 
 #### the canonical form of a quadratic polynomial is
-$$f(x) = a(x - \alpha) + \beta$$
+$$f(x) = a(x - \alpha)^2 + \beta$$
