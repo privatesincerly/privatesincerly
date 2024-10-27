@@ -18,7 +18,7 @@ I'm a __VS Codium__ and __IntelliJ Idea__ user.
 uhm, I already did some stuff but it isn't here.
 I made an ugly, non-responsive website about Newton for my physics teacher. you can find it [here](https://github.com/privatesincerly/newton-sim).
 
-__stuff i wanna do:__ a cloud-based modding framework for Minecraft, my personal website, more stuff.
+__stuff i wanna do:__ a cloud-based modding framework for Minecraft, my personal website, give AI emotions, more stuff.
 
 #### the canonical form of a quadratic polynomial is
 $$f(x) = a(x - \alpha)^2 + \beta$$
