@@ -1,4 +1,4 @@
-### yo there! 👋
+### uhm hey
 ----
 ###### *internet is awesome! but you can't download love.*
 
@@ -6,19 +6,7 @@
 
 #### get to know me
 
-I'm __Fallen__.
-16 years old, french high school student. I'm studying computer science and mathematics as my main subjects.
-
-__macOS__ user here. I also rarely use Windows 11 in school.
-I know some Java, Python, HTML/CSS but I want to learn C/C++, C#, and many others.
-I'm a __VS Codium__ and __IntelliJ Idea__ user.
-
-#### i do stuff
-
-uhm, I already did some stuff but it isn't here.
-I made an ugly, non-responsive website about Newton for my physics teacher. you can find it [here](https://github.com/privatesincerly/newton-sim).
-
-__stuff i wanna do:__ a cloud-based modding framework for Minecraft, my personal website, give AI emotions, more stuff.
+im cool and ur not.
 
 #### the canonical form of a quadratic polynomial is
 $$f(x) = a(x - \alpha)^2 + \beta$$
