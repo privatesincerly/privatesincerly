@@ -9,7 +9,7 @@ I’m a student based in 🇫🇷 France, with a strong interest in mathematics 
 
 Most of my time is spent experimenting with small projects. I like trying things out, breaking them, and learning from the process. Right now, I’m focused on building a solid foundation rather than chasing big or flashy projects. I’m still figuring out what I want to specialize in, but I like keeping things minimal, curious, and practical for the moment.
 
-Outside of programming, [music](https://stats.fm/privatesincerly) plays a big role in my life. I’ve listened to around 1,900+ albums so far, and my favorite artist is Tate McRae. You can find some of my all-time [favorite songs](https://github.com/privatesincerly/privatesincerly/FAVORITE_SONGS.md) in my self-titled repository.
+Outside of programming, [music](https://stats.fm/privatesincerly) plays a big role in my life. I’ve listened to around 1,900+ albums so far, and my favorite artist is Tate McRae. You can find some of my all-time [favorite songs](FAVORITE_SONGS.md) in my self-titled repository.
 
 ### Technologies I use
 
